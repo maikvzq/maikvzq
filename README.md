@@ -35,7 +35,7 @@ Engineering student focused on developing strong foundations in Linux, networkin
 
 ---
 
-### 🚀 Featured Project: Technical Analyst AI (TAA)
+### 🚀 Featured Project: Technical Analyst AI (TAAI)
 **An offline framework for analyzing technical documents using local AI models.**
 
 * **The Problem:** Technical documentation can be difficult to review, and cloud AI tools may raise data privacy concerns.
